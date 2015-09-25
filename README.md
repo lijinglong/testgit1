@@ -1,2 +1,2 @@
 # testgit
-thid is git test1
+this is git test1
